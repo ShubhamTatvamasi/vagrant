@@ -6,6 +6,11 @@ vagrant box add bento/ubuntu-16.04
 vagrant box add ubuntu/focal64
 ```
 
+List all vagrant boxs
+```bash
+vagrant box list
+```
+
 Start vagrant box:
 ```bash
 vagrant up
