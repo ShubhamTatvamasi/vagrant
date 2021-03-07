@@ -11,6 +11,11 @@ List all vagrant boxs
 vagrant box list
 ```
 
+Setup Vagrantfile for an image
+```bash
+vagrant init ubuntu/focal64
+```
+
 Start vagrant box:
 ```bash
 vagrant up
