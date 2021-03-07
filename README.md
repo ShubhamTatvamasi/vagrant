@@ -14,3 +14,8 @@ Destroy vagrant box:
 ```bash
 vagrant destroy
 ```
+
+ssh into vagrant box:
+```bash
+vagrant ssh
+```
