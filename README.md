@@ -21,12 +21,18 @@ Start vagrant box:
 vagrant up
 ```
 
+ssh into vagrant box:
+```bash
+vagrant ssh
+```
+
+Shutdown system:
+```bash
+vagrant halt
+```
+
 Destroy vagrant box:
 ```bash
 vagrant destroy
 ```
 
-ssh into vagrant box:
-```bash
-vagrant ssh
-```
