@@ -38,6 +38,6 @@ vagrant reload
 
 Destroy vagrant box:
 ```bash
-vagrant destroy
+vagrant destroy -f
 ```
 
