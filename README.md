@@ -31,6 +31,11 @@ Shutdown system:
 vagrant halt
 ```
 
+Restart vagrant box:
+```bash
+vagrant reload
+```
+
 Destroy vagrant box:
 ```bash
 vagrant destroy
