@@ -21,6 +21,11 @@ Start vagrant box:
 vagrant up
 ```
 
+Package your VM:
+```bash
+vagrant package
+```
+
 ssh into vagrant box:
 ```bash
 vagrant ssh
