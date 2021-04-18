@@ -21,6 +21,11 @@ Start vagrant box:
 vagrant up
 ```
 
+Check status of the box:
+```bash
+vagrant status
+```
+
 Package your VM:
 ```bash
 vagrant package
