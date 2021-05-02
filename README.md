@@ -41,6 +41,11 @@ Shutdown system:
 vagrant halt
 ```
 
+Save the current state on VM:
+```bash
+vagrant suspend
+```
+
 Restart vagrant box:
 ```bash
 vagrant reload
