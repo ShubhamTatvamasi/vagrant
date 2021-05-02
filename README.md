@@ -31,6 +31,11 @@ Package your VM:
 vagrant package
 ```
 
+Install scp package:
+```bash
+vagrant plugin install vagrant-scp
+```
+
 ssh into vagrant box:
 ```bash
 vagrant ssh
@@ -44,6 +49,11 @@ vagrant halt
 Save the current state on VM:
 ```bash
 vagrant suspend
+```
+
+Resume suspended machine:
+```bash
+vagrant resume
 ```
 
 Restart vagrant box:
