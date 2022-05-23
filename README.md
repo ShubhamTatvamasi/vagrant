@@ -33,8 +33,7 @@ vagrant package
 
 Install vbguest and scp package:
 ```bash
-vagrant plugin install vagrant-vbguest
-vagrant plugin install vagrant-scp
+vagrant plugin install vagrant-vbguest vagrant-scp
 ```
 
 ssh into vagrant box:
