@@ -31,8 +31,9 @@ Package your VM:
 vagrant package
 ```
 
-Install scp package:
+Install vbguest and scp package:
 ```bash
+vagrant plugin install vagrant-vbguest
 vagrant plugin install vagrant-scp
 ```
 
